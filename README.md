@@ -1,21 +1,90 @@
-# 💫 About Me:
-### 👨‍💻 About Me<br><br>- 🎓 I'm a **Computer Science student** with a strong passion for web technologies.<br>- 💼 Currently working as a **Back-End Developer Intern** specializing in **NestJS, PostgreSQL, and Prisma**.<br>- 🧠 I enjoy designing **robust APIs**, **modular codebases**, and **maintainable architecture**.<br>- 🛠️ My tech stack focuses on **TypeScript**, **Node.js**, and modern backend frameworks.<br>- 🌍 I believe in **clean code**, **open-source contribution**, and **continuous learning**.<br>- 📚 Always exploring new topics like **Microservices**, **Authentication**, and **System Design**.<br>- 🧩 Outside of tech, I love **problem solving**, **learning new tools**, and sometimes diving into **UI/UX logic**.<br><br>> "Code is not just written, it’s designed — like a building you want to last."<br><br>
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="center">I'm Abdelrhman Ayman — a passionate Full-Stack Developer 🚀</h2>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdelrhman-ayman-28119832b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdelrhman.ayman9876@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abdelrhman612&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Abdelrhman612&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdelrhman612&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Abdelrhman612&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<p align="center">
+  I love building scalable backend systems, crafting beautiful frontend interfaces,<br />
+  and constantly learning new technologies every day! 💡✨
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abdelrhman612&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me
+
+- 🎓 I'm a **Computer Science student** with a strong passion for web technologies.  
+- 🧠 I enjoy designing **robust APIs**, **modular codebases**, and **maintainable architectures**.  
+- 🛠️ My core tech stack revolves around **TypeScript**, **Node.js**, and modern backend frameworks.  
+- 🌍 I believe in **clean code**, **open-source contribution**, and **continuous learning**.  
+- 📚 Always exploring new topics like **Microservices**, **Authentication**, and **System Design**.  
+- 🧩 Outside of tech, I enjoy **problem solving**, **learning new tools**, and exploring **UI/UX logic**.  
+
+> *"Code is not just written — it’s designed like a building you want to last."* 🏛️
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdelrhman-ayman-28119832b/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:abdelrhman.ayman9876@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://wa.me/201500486123" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/960px-NestJS.svg.png?20221211225055" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdelrhman612&theme=radical&hide_border=true&show_icons=true" height="170" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdelrhman612&theme=radical&no-frame=true&no-bg=true&margin-w=8" />
+</p>
+
+---
+
+### 🎯 2025 Goals
+
+- 🔥 Contribute to meaningful open-source projects  
+- 🧠 Deepen knowledge in microservices and system design  
+- 🧰 Lead a back-end project with solid architecture  
+- ✨ Build tools that solve real-world problems  
+
+---
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHBlcnYyOWFxdm80NjgxeWNmZXJ6MHNvNzBibHkwcW50ZXRxdnMyNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" height="200" />
+</div>
+
+---
